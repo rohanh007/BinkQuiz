@@ -7,4 +7,4 @@ https://user-images.githubusercontent.com/77897898/209001158-543c61c8-1ea3-46fc-
 https://blinkquizzzz.netlify.app/
 
 # Tech Stack
-Client : HTML, CSS, JavScript
+Client : HTML, CSS, JavaScript
